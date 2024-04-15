@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/styles2.css">
+<head>
+    <title>Login</title>
+</head>
+<header>
+    <h1>
+        <a href="https://www.instagram.com/">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" alt="Descripción de la imagen" id="insta">
+          </a>
+    </h1>
+</header>
+<body>
+  
+    
+    <form action="/login" method="post">
+        <h3> <b> <i> Inicio Sesion </i> </b></h3>
+
+        <label for="username">Usuario</label>
+        <input type="text" placeholder="Correo" name="email" id="username" required>
+
+        <label for="password">Contraseña</label>
+        <input type="password" placeholder="Contraseña" name="passw" id="password" required>
+        <a href="/html/olvida.html" id="back">   Olvidaste tu contraseña?  </a>
+
+
+        <button type="submit" value="Iniciar sesión"> <b>Iniciar Sesion</b></button>
+        <br>
+        <br>
+       <a href="/html/register.html" id="back">   Registrarse </a>
+    </form>
+</body>
+</html>

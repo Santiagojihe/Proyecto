@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/perfil.css">
+    <title>Perfil</title>
+</head>
+
+<body>
+          <header>
+            <div class="logo">
+                <img src="../css/img/Logo.png" alt="Logo">
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="/html/index.html">Inicio</a></li>
+                    <li><a href="/html/acercade.html">Acerca de</a></li>
+                    <li><a href="/html/Sillas.html">Bus</a></li>
+                    <li><a href="/html/contactanos.html">Contactanos</a></li>
+                    <li><a href="/html/perfil.html" id="perfil">Perfil</a></li>
+                    <li><a href="/html/login.html" id="out">Log Out
+                    </a></li>
+                </ul>
+            </nav>
+        </header>
+ 
+        
+    <div  id="formu">
+        <h3 id="titulo"> <b> Perfil </b> </h3>
+        <label for="passw" id="lol"><i> <b>Nombre:<span id="nombre"></span></b></i></label>
+        <br>
+        <label for="apellido" id="lol"><i><b>Apellido:<span id="apellido"></span></b></i></label>
+        <br>
+
+        <form action="/cambioemail" method="POST">
+            <p><b>Email:</b> <span id="email"></span></p>
+                <input type="email" placeholder="Correo" id="email" name="email"><br>
+                <input type="submit" value="Cambiar Email" id="botonE">
+            </form>
+            
+            <form action="/cambiopass" method="POST">
+                <p><b>Contraseña:</b> <span id="passw">********</span></p>
+                    <input type="password" placeholder="Contraseña" id="passw" name="passw"><br>
+                    <input type="submit" value="Cambiar Contraseña" id="botonC">
+                </form>
+        <br>
+
+        <br>
+        <form action="/eliminar" method="POST">
+            <input type="submit" value="Eliminar Cuenta" id="boton">
+        </form>
+        <script src="js/perfil.js">
+
+        </script>
+    </div>
+
+</body>
+</html>

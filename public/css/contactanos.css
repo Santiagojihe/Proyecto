@@ -1,0 +1,79 @@
+header {
+    padding: 10px 0;
+    height: 8%;
+    font-size: 40px;
+    box-shadow: 0 0 40px rgb(255, 255, 255);
+    background-image: url(../css/img/header.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 150px;
+}
+.logo, img {
+    float: left; /* Para alinear la imagen a la izquierda */
+    width: 90px; /* Ancho de la imagen */
+    height: auto; /* Altura automática para mantener la proporción */
+    cursor: pointer;
+    margin-right: 50px;
+    border-radius: 70px;
+}
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: #e0a8e2;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    background-image: url(../css/img/contacto.jpg);
+    background-size: cover;
+}
+
+.respuesta-box {
+    width: 700px;
+    height: 480px;
+    padding: 50px;
+    background-image: radial-gradient(circle at 53.31% 50%, #f5ffe5 0, #e6ffdf 16.67%, #d0fad4 33.33%, #b4ebc5 50%, #96dcb8 66.67%, #7dd1b2 83.33%, #69cab1 100%);    border-radius: 20px;
+    box-shadow: 0 0 40px rgba(8,7,16,0.6);
+    margin-top: 80px;
+    text-align: center; /* Alineamos el texto al centro */
+}
+
+.fonti{
+    font-size: 30px;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#out{
+    color: #ffffff;
+    padding: 12px 10px;
+    font-size: 30px;
+    font-weight: 600;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: transparent; 
+    border: 3px solid #ffffff;
+}

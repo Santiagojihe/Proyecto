@@ -1,0 +1,138 @@
+*,
+*:before,
+*:after{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+background-image: url('../css/img/calle.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+}
+.logo, img {
+    float: left; /* Para alinear la imagen a la izquierda */
+    width: 90px; /* Ancho de la imagen */
+    height: auto; /* Altura automática para mantener la proporción */
+    cursor: pointer;
+    margin-right: 50px;
+    border-radius: 70px;
+}
+form{
+    height: 480px;
+    width: 400px;
+    background-color: rgba(255,255,255,0.13);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    backdrop-filter: blur(15px);
+    border: 2px solid rgba(255,255,255,0.1);
+    box-shadow: 0 0 40px rgba(8,7,16,0.6);
+    padding: 50px 35px;
+}
+form *{
+    font-family: 'Poppins',sans-serif;
+    color: #ffffff;
+    letter-spacing: 0.5px;
+    outline: none;
+    border: none;
+}
+form h3{
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 42px;
+    text-align: center;
+}
+
+label{
+    display: block;
+    margin-top: 30px;
+    font-size: 14px;
+    font-weight: 500;
+}
+input{
+    display: block;
+    height: 50px;
+    width: 100%;
+    background-color: rgba(255,255,255,0.07);
+    border-radius: 3px;
+    padding: 0 10px;
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 300;
+}
+::placeholder{
+    color: #e5e5e5;
+}
+button{
+    margin-top: 20px;
+    width: 100%;
+    background-color: #000000;
+    color: #000000;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    form a[href="/register.html"] {
+        display: block;
+        text-align: center;
+        margin-top: 20px; /* Ajusta el margen superior según sea necesario */
+        color: #46daff;
+        font-size: 20px;
+    }
+
+#formu{
+    width: 400px;
+    height: 690px;
+    background-color: rgba(255,255,255,0.13);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255,255,255,0.1);
+    box-shadow: 0 0 40px rgba(8,7,16,0.6);
+    padding: 50px 35px;
+}
+
+#lab{
+    display: block;
+    margin-top: 15px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#back{
+    color: #46daff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#boton{
+    margin-top: 10px;
+    width: 100%;
+    background-color: #000000;
+    color: #ffffff;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#insta{
+    width: 40px;
+    height: 40px;
+    float: right;
+    display: block; margin-top: 10px;
+    margin-RIGHT: 10px;    
+    
+}

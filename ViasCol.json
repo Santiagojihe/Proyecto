@@ -1,0 +1,446 @@
+[
+ {
+  "Nombre Ciudad A": "Medellin",
+  "Nombre Ciudad B": "Manizales",
+  "Distancia (km)": 196,
+  "Tiempo (min)": 248
+ },
+ {
+  "Nombre Ciudad A": "Medellin",
+  "Nombre Ciudad B": "Pereira",
+  "Distancia (km)": 238,
+  "Tiempo (min)": 292
+ },
+ {
+  "Nombre Ciudad A": "Manizales",
+  "Nombre Ciudad B": "Pereira",
+  "Distancia (km)": 53,
+  "Tiempo (min)": 68
+ },
+ {
+  "Nombre Ciudad A": "Pereira",
+  "Nombre Ciudad B": "Armenia",
+  "Distancia (km)": 46,
+  "Tiempo (min)": 56
+ },
+ {
+  "Nombre Ciudad A": "Pereira",
+  "Nombre Ciudad B": "Cartago",
+  "Distancia (km)": 30,
+  "Tiempo (min)": 42
+ },
+ {
+  "Nombre Ciudad A": "Cartago",
+  "Nombre Ciudad B": "Armenia",
+  "Distancia (km)": 50,
+  "Tiempo (min)": 72
+ },
+ {
+  "Nombre Ciudad A": "Cartago",
+  "Nombre Ciudad B": "Tulua",
+  "Distancia (km)": 87,
+  "Tiempo (min)": 75
+ },
+ {
+  "Nombre Ciudad A": "Armenia",
+  "Nombre Ciudad B": "Tulua",
+  "Distancia (km)": 87,
+  "Tiempo (min)": 84
+ },
+ {
+  "Nombre Ciudad A": "Tulua",
+  "Nombre Ciudad B": "Buga",
+  "Distancia (km)": 28,
+  "Tiempo (min)": 32
+ },
+ {
+  "Nombre Ciudad A": "Buga",
+  "Nombre Ciudad B": "Buenaventura",
+  "Distancia (km)": 111,
+  "Tiempo (min)": 123
+ },
+ {
+  "Nombre Ciudad A": "Buga",
+  "Nombre Ciudad B": "Cali",
+  "Distancia (km)": 66,
+  "Tiempo (min)": 73
+ },
+ {
+  "Nombre Ciudad A": "Buga ",
+  "Nombre Ciudad B": "Palmira",
+  "Distancia (km)": 52,
+  "Tiempo (min)": 47
+ },
+ {
+  "Nombre Ciudad A": "Palmira",
+  "Nombre Ciudad B": "Cali",
+  "Distancia (km)": 30,
+  "Tiempo (min)": 43
+ },
+ {
+  "Nombre Ciudad A": "Cali",
+  "Nombre Ciudad B": "Popayan",
+  "Distancia (km)": 140,
+  "Tiempo (min)": 176
+ },
+ {
+  "Nombre Ciudad A": "Popayan",
+  "Nombre Ciudad B": "Pitalito",
+  "Distancia (km)": 157,
+  "Tiempo (min)": 232
+ },
+ {
+  "Nombre Ciudad A": "Pitalito",
+  "Nombre Ciudad B": "Mocoa",
+  "Distancia (km)": 134,
+  "Tiempo (min)": 180
+ },
+ {
+  "Nombre Ciudad A": "Mocoa",
+  "Nombre Ciudad B": "Pasto",
+  "Distancia (km)": 146,
+  "Tiempo (min)": 286
+ },
+ {
+  "Nombre Ciudad A": "Popayan",
+  "Nombre Ciudad B": "Pasto",
+  "Distancia (km)": 244,
+  "Tiempo (min)": 309
+ },
+ {
+  "Nombre Ciudad A": "Pitalito",
+  "Nombre Ciudad B": "Florencia",
+  "Distancia (km)": 112,
+  "Tiempo (min)": 172
+ },
+ {
+  "Nombre Ciudad A": "Pitalito",
+  "Nombre Ciudad B": "Neiva",
+  "Distancia (km)": 187,
+  "Tiempo (min)": 220
+ },
+ {
+  "Nombre Ciudad A": "Popayan",
+  "Nombre Ciudad B": "Neiva",
+  "Distancia (km)": 271,
+  "Tiempo (min)": 361
+ },
+ {
+  "Nombre Ciudad A": "Neiva",
+  "Nombre Ciudad B": "El Espinal",
+  "Distancia (km)": 156,
+  "Tiempo (min)": 124
+ },
+ {
+  "Nombre Ciudad A": "El Espinal",
+  "Nombre Ciudad B": "Ibague",
+  "Distancia (km)": 56,
+  "Tiempo (min)": 56
+ },
+ {
+  "Nombre Ciudad A": "Ibague",
+  "Nombre Ciudad B": "Armenia",
+  "Distancia (km)": 80,
+  "Tiempo (min)": 131
+ },
+ {
+  "Nombre Ciudad A": "Ibague",
+  "Nombre Ciudad B": "Mariquita",
+  "Distancia (km)": 121,
+  "Tiempo (min)": 124
+ },
+ {
+  "Nombre Ciudad A": "Mariquita",
+  "Nombre Ciudad B": "Manizales",
+  "Distancia (km)": 119,
+  "Tiempo (min)": 194
+ },
+ {
+  "Nombre Ciudad A": "Ibague",
+  "Nombre Ciudad B": "Melgar",
+  "Distancia (km)": 86,
+  "Tiempo (min)": 75
+ },
+ {
+  "Nombre Ciudad A": "El Espinal",
+  "Nombre Ciudad B": "Melgar",
+  "Distancia (km)": 40,
+  "Tiempo (min)": 41
+ },
+ {
+  "Nombre Ciudad A": "Girardot",
+  "Nombre Ciudad B": "Melgar",
+  "Distancia (km)": 24,
+  "Tiempo (min)": 28
+ },
+ {
+  "Nombre Ciudad A": "Girardot",
+  "Nombre Ciudad B": "Ibague",
+  "Distancia (km)": 68,
+  "Tiempo (min)": 65
+ },
+ {
+  "Nombre Ciudad A": "Melgar",
+  "Nombre Ciudad B": "Fusagasuga",
+  "Distancia (km)": 46,
+  "Tiempo (min)": 55
+ },
+ {
+  "Nombre Ciudad A": "Girardot",
+  "Nombre Ciudad B": "Anapoima",
+  "Distancia (km)": 53,
+  "Tiempo (min)": 65
+ },
+ {
+  "Nombre Ciudad A": "Anapoima",
+  "Nombre Ciudad B": "Funza",
+  "Distancia (km)": 71,
+  "Tiempo (min)": 103
+ },
+ {
+  "Nombre Ciudad A": "Fusagasuga",
+  "Nombre Ciudad B": "Soacha",
+  "Distancia (km)": 45,
+  "Tiempo (min)": 82
+ },
+ {
+  "Nombre Ciudad A": "Soacha",
+  "Nombre Ciudad B": "Bogota",
+  "Distancia (km)": 25,
+  "Tiempo (min)": 50
+ },
+ {
+  "Nombre Ciudad A": "Funza",
+  "Nombre Ciudad B": "Bogota",
+  "Distancia (km)": 22,
+  "Tiempo (min)": 38
+ },
+ {
+  "Nombre Ciudad A": "Funza",
+  "Nombre Ciudad B": "Mariquita",
+  "Distancia (km)": 170,
+  "Tiempo (min)": 216
+ },
+ {
+  "Nombre Ciudad A": "Bogota",
+  "Nombre Ciudad B": "La Dorada",
+  "Distancia (km)": 191,
+  "Tiempo (min)": 222
+ },
+ {
+  "Nombre Ciudad A": "La Dorada",
+  "Nombre Ciudad B": "Medellin",
+  "Distancia (km)": 243,
+  "Tiempo (min)": 271
+ },
+ {
+  "Nombre Ciudad A": "Bogota",
+  "Nombre Ciudad B": "Zipaquira",
+  "Distancia (km)": 42,
+  "Tiempo (min)": 48
+ },
+ {
+  "Nombre Ciudad A": "Bogota",
+  "Nombre Ciudad B": "Guatavita",
+  "Distancia (km)": 51,
+  "Tiempo (min)": 79
+ },
+ {
+  "Nombre Ciudad A": "Zipaquira",
+  "Nombre Ciudad B": "Guatavita",
+  "Distancia (km)": 51,
+  "Tiempo (min)": 60
+ },
+ {
+  "Nombre Ciudad A": "Bogota",
+  "Nombre Ciudad B": "Tunja",
+  "Distancia (km)": 141,
+  "Tiempo (min)": 128
+ },
+ {
+  "Nombre Ciudad A": "Bogota",
+  "Nombre Ciudad B": "Villavicencio",
+  "Distancia (km)": 123,
+  "Tiempo (min)": 176
+ },
+ {
+  "Nombre Ciudad A": "Medellin",
+  "Nombre Ciudad B": "Tunja",
+  "Distancia (km)": 413,
+  "Tiempo (min)": 497
+ },
+ {
+  "Nombre Ciudad A": "Tunja",
+  "Nombre Ciudad B": "Duitama",
+  "Distancia (km)": 58,
+  "Tiempo (min)": 58
+ },
+ {
+  "Nombre Ciudad A": "Duitama",
+  "Nombre Ciudad B": "Sogamoso",
+  "Distancia (km)": 20,
+  "Tiempo (min)": 30
+ },
+ {
+  "Nombre Ciudad A": "Sogamoso",
+  "Nombre Ciudad B": "Yopal",
+  "Distancia (km)": 130,
+  "Tiempo (min)": 274
+ },
+ {
+  "Nombre Ciudad A": "Bogota",
+  "Nombre Ciudad B": "Bucaramanga",
+  "Distancia (km)": 398,
+  "Tiempo (min)": 524
+ },
+ {
+  "Nombre Ciudad A": "Tunja",
+  "Nombre Ciudad B": "Bucaramanga",
+  "Distancia (km)": 282,
+  "Tiempo (min)": 381
+ },
+ {
+  "Nombre Ciudad A": "Medellin",
+  "Nombre Ciudad B": "Bucaramanga",
+  "Distancia (km)": 383,
+  "Tiempo (min)": 386
+ },
+ {
+  "Nombre Ciudad A": "Villavicencio",
+  "Nombre Ciudad B": "San Jose del Guaviare",
+  "Distancia (km)": 284,
+  "Tiempo (min)": 283
+ },
+ {
+  "Nombre Ciudad A": "Medellin",
+  "Nombre Ciudad B": "Quibdo",
+  "Distancia (km)": 230,
+  "Tiempo (min)": 331
+ },
+ {
+  "Nombre Ciudad A": "Manizales",
+  "Nombre Ciudad B": "Quibdo",
+  "Distancia (km)": 273,
+  "Tiempo (min)": 375
+ },
+ {
+  "Nombre Ciudad A": "Medellin",
+  "Nombre Ciudad B": "Necocli",
+  "Distancia (km)": 383,
+  "Tiempo (min)": 484
+ },
+ {
+  "Nombre Ciudad A": "Necocli",
+  "Nombre Ciudad B": "Monteria",
+  "Distancia (km)": 148,
+  "Tiempo (min)": 182
+ },
+ {
+  "Nombre Ciudad A": "Medellin",
+  "Nombre Ciudad B": "Caucasia",
+  "Distancia (km)": 284,
+  "Tiempo (min)": 388
+ },
+ {
+  "Nombre Ciudad A": "Caucasia",
+  "Nombre Ciudad B": "Medellin",
+  "Distancia (km)": 122,
+  "Tiempo (min)": 120
+ },
+ {
+  "Nombre Ciudad A": "Caucasia",
+  "Nombre Ciudad B": "Bucaramanga",
+  "Distancia (km)": 505,
+  "Tiempo (min)": 622
+ },
+ {
+  "Nombre Ciudad A": "Monteria",
+  "Nombre Ciudad B": "Sincelejo",
+  "Distancia (km)": 122,
+  "Tiempo (min)": 129
+ },
+ {
+  "Nombre Ciudad A": "Monteria",
+  "Nombre Ciudad B": "Cartagena",
+  "Distancia (km)": 259,
+  "Tiempo (min)": 280
+ },
+ {
+  "Nombre Ciudad A": "Sincelejo",
+  "Nombre Ciudad B": "Cartagena",
+  "Distancia (km)": 197,
+  "Tiempo (min)": 248
+ },
+ {
+  "Nombre Ciudad A": "Sincelejo",
+  "Nombre Ciudad B": "Barranquilla",
+  "Distancia (km)": 239,
+  "Tiempo (min)": 255
+ },
+ {
+  "Nombre Ciudad A": "Cartagena",
+  "Nombre Ciudad B": "Barranquilla",
+  "Distancia (km)": 131,
+  "Tiempo (min)": 175
+ },
+ {
+  "Nombre Ciudad A": "Barranquilla",
+  "Nombre Ciudad B": "Bucaramanga",
+  "Distancia (km)": 633,
+  "Tiempo (min)": 726
+ },
+ {
+  "Nombre Ciudad A": "Sincelejo",
+  "Nombre Ciudad B": "Valledupar",
+  "Distancia (km)": 388,
+  "Tiempo (min)": 446
+ },
+ {
+  "Nombre Ciudad A": "Barranquilla",
+  "Nombre Ciudad B": "Valledupar",
+  "Distancia (km)": 308,
+  "Tiempo (min)": 342
+ },
+ {
+  "Nombre Ciudad A": "Barranquilla",
+  "Nombre Ciudad B": "Santa Marta",
+  "Distancia (km)": 104,
+  "Tiempo (min)": 126
+ },
+ {
+  "Nombre Ciudad A": "Santa Marta",
+  "Nombre Ciudad B": "Riohacha",
+  "Distancia (km)": 172,
+  "Tiempo (min)": 173
+ },
+ {
+  "Nombre Ciudad A": "Valledupar",
+  "Nombre Ciudad B": "Riohacha",
+  "Distancia (km)": 159,
+  "Tiempo (min)": 205
+ },
+ {
+  "Nombre Ciudad A": "Valledupar",
+  "Nombre Ciudad B": "Cucuta",
+  "Distancia (km)": 547,
+  "Tiempo (min)": 664
+ },
+ {
+  "Nombre Ciudad A": "Cucuta",
+  "Nombre Ciudad B": "Bucaramanga",
+  "Distancia (km)": 201,
+  "Tiempo (min)": 328
+ },
+ {
+  "Nombre Ciudad A": "Valledupar",
+  "Nombre Ciudad B": "Cucuta",
+  "Distancia (km)": 547,
+  "Tiempo (min)": 664
+ },
+ {
+  "Nombre Ciudad A": "Cucuta",
+  "Nombre Ciudad B": "Bucaramanga",
+  "Distancia (km)": 201,
+  "Tiempo (min)": 328
+ }
+]
